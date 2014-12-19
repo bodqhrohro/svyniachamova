@@ -3,7 +3,7 @@ Svynicha mova - the Pigs' language!
 
 Made in Odessa! Yes, it's just a full of fat pig's grunt, nothing else. And yet it is Turing-complete! Precisely, it's just a remake of [PETOOH](https://github.com/Ky6uk/PETOOH) language which in turn is a remake of Brainfuck. And yes, it's inspired by the incident with the "[calf's language](http://tsn.ua/ukrayina/odeskiy-dayishnik-na-pitannya-ukrayinskoyu-nye-ponimayu-tyelyachyu-movu.html)". Here's an example that prints "GLORY TO UKRAINE":
 
-  HriuHriuHriuHriu OinkOinkOinkOink
+`  HriuHriuHriuHriu OinkOinkOinkOink
   Hro hriu OinkOinkOinkOink Hriu oink hro hriu
   Hro hriu OinkOinkOinkOink Hriu oink hro hriu
   Hro hriu OinkOinkOinkOink Hriu oink hro hriu
@@ -42,9 +42,9 @@ Made in Odessa! Yes, it's just a full of fat pig's grunt, nothing else. And yet 
   Hro hriu OinkOink Hriu oink hro hriu
   Hro hriu OinkOink Hriu oink hro hriu
   Hro hriu OinkOink Hriu oink hro hriu
-  Oink squeal
+  Oink squeal`
 
-Equiualents:
+Equivalents:
 ------------
 
 |Svyniacha mova | Brainfuck
